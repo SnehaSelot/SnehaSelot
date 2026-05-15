@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:8338EC,100:3A86FF&height=200&section=header&text=Sneha%20Selot&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Dream%20Compiler&descAlignY=58&descSize=18"/>
+<!-- Animated Banner — vortex/galaxy style, no pink -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sneha%20Selot&fontSize=65&fontColor=A78BFA&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Dream%20Compiler&descAlignY=62&descSize=17&descColor=C4B5FD"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8338EC&center=true&vCenter=true&random=false&width=600&lines=🐞+My+bugs+are+feature-rich;🧠+Probably+overthinking+the+algorithm;📝+Git+commits+are+my+diary;⌨️+Living+between+Ctrl+Z+and+Ctrl+S;🚀+Turning+curiosity+into+code" alt="Typing SVG" />
-</a>
+<!-- Typing Animation — plain ASCII only, no emoji in URL -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&height=45&lines=My+bugs+are+feature-rich+%F0%9F%90%9E;Probably+overthinking+the+algorithm+%F0%9F%A7%A0;Git+commits+are+my+diary+%F0%9F%93%9D;Living+between+Ctrl+Z+and+Ctrl+S+%E2%8C%A8%EF%B8%8F;Turning+curiosity+into+code+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -23,18 +21,40 @@
 
 ## 🚀 About Me
 
-```javascript
-const sneha = {
-  name: "Sneha Selot",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  currentlyBuilding: "Compiling dreams into reality ✨",
-  passion: ["Clean code", "Scalable systems", "Open source"],
-  funFact: "My bugs are feature-rich 🐞",
-  askMeAbout: ["Web Dev", "React", "Node.js", "System Design"],
-  hobbies: ["Coding", "Photography 📸", "Design 🎨"],
-};
-```
+<table>
+  <tr>
+    <td>👩‍💻 <b>Name</b></td>
+    <td>Sneha Selot</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Role</b></td>
+    <td>Full Stack Developer</td>
+  </tr>
+  <tr>
+    <td>🌍 <b>Location</b></td>
+    <td>India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td>🔭 <b>Currently Building</b></td>
+    <td>Compiling dreams into reality ✨</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask Me About</b></td>
+    <td>Web Dev · React · Node.js · System Design</td>
+  </tr>
+  <tr>
+    <td>❤️ <b>Passion</b></td>
+    <td>Clean code · Scalable systems · Open source</td>
+  </tr>
+  <tr>
+    <td>🐞 <b>Fun Fact</b></td>
+    <td>My bugs are feature-rich</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Hobbies</b></td>
+    <td>Coding · Photography · Design</td>
+  </tr>
+</table>
 
 ---
 
@@ -52,7 +72,7 @@ const sneha = {
 ## 💻 Tech Arsenal
 
 <details open>
-<summary><b>🖥️ Languages</b></summary>
+<summary><h3>🖥️ Languages</h3></summary>
 <br/>
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -69,7 +89,7 @@ const sneha = {
 </details>
 
 <details open>
-<summary><b>⚛️ Frameworks & Libraries</b></summary>
+<summary><h3>⚛️ Frameworks & Libraries</h3></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -84,7 +104,7 @@ const sneha = {
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary><h3>🗄️ Databases</h3></summary>
 <br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -96,7 +116,7 @@ const sneha = {
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><h3>☁️ Cloud & DevOps</h3></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -112,7 +132,7 @@ const sneha = {
 </details>
 
 <details>
-<summary><b>🛠️ Tools & More</b></summary>
+<summary><h3>🛠️ Tools & More</h3></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -179,7 +199,6 @@ const sneha = {
 </picture>
 
 </div>
-
 
 ---
 
